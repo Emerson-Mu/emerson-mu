@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! 👋 I'm Emerson Muñoz!
+
+<p><em>Telecommunication Engineering at <a href="https://www.pucp.edu.pe/">PUCP</a>
+</br>IP Network Design Engineer at <a href="https://www.nokia.com/">Nokia</a></em></p>
 
 <!--
 **Emerson-Mu/emerson-mu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
